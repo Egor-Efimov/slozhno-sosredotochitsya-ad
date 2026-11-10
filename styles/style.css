@@ -5,6 +5,7 @@
   background-color: var(--background-color);
   inline-size: 100%;
   min-block-size: 100vh;
+  background-attachment: fixed;
 }
 
 .header {
